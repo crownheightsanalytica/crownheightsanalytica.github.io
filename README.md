@@ -41,8 +41,6 @@
     </style>
 </head>
 <body>
-    <img src="Crown Heights Analytica LOGO.png" alt="Logo" class="logo">
-    
-    <a href="document.pdf" download>Download PDF</a>
+    <img src="Crown_Heights_Analytica_LOGO.png" alt="Logo" class="logo">
 </body>
 </html>
