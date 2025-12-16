@@ -23,7 +23,7 @@
 
         .logo {
             max-width: 100px;
-            width: 50%;
+            width: 100%;
             height: auto;
             margin-bottom: 3rem;
         }
